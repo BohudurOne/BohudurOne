@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://checkout.bohudur.one/images/logo.png" alt="UddoktaPay Logo" style="max-width: 150px; margin-bottom: 10px;" />
+</div>
 
-<!--
-**BohudurOne/BohudurOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Bohudur</h1>
+<p align="center">
+  <strong>Payment Automation Solution for businesses and developers.</strong>
+</p>
+<p align="center">
+  Completely free, effortless payment automation packed with powerful features and ready-to-use modules.
+</p>
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What is Bohudur?
+
+**Bohudur** is a free, developer-first payment automation solution tailored for businesses, freelancers, and platforms operating in regional markets.
+
+Unlike generic global services, Bohudur focuses on local adaptability, fast deployment, and full control — with SDKs and APIs that just work.
