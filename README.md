@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/VYJfgswP/1754488052311.png" alt="1754488052311" border="0">
+  <img src="https://bohudur.one/1754488052311.png" alt="1754488052311" border="0">
 </div>
 <br>
 
