@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://bohudur.one/1754488052311.png" alt="1754488052311" border="0">
+  <img src="https://bohudur.one/assets/1754488052311.png" alt="banner" border="0">
 </div>
 <br>
 
